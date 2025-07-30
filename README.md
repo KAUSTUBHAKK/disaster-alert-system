@@ -31,6 +31,17 @@ frontend/
 ├── index.html # Main web page
 ├── style.css # UI styles
 └── script.js # Map logic + data fetching
+## 🖼️ Project Preview
+
+## 🖼️ Preview
+
+### Light Mode
+
+![Light](./light-mode.png)
+
+### Dark Mode
+
+![Dark](./dark-mode.png)
 
 
 
