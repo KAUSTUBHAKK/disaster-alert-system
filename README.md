@@ -32,16 +32,12 @@ frontend/
 ├── style.css # UI styles
 └── script.js # Map logic + data fetching
 
-## 🖼️ Project Preview
+### Preview
 
-### 🌞 Light Mode
+**Light Mode**
 
-![Light Mode](./light-mode.png)
+![Light](light-mode.png)
 
----
+**Dark Mode**
 
-### 🌚 Dark Mode
-
-![Dark Mode](./dark-mode.png)
-
-
+![Dark](dark-mode.png)
