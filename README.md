@@ -25,13 +25,6 @@ A real-time disaster alert dashboard using **Mapbox**, **AWS S3**, and **JavaScr
 
 ---
 
-## 📁 Project Structure
-
-frontend/
-├── index.html # Main web page
-├── style.css # UI styles
-└── script.js # Map logic + data fetching
-
 ### Preview
 
 **Light Mode**
