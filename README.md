@@ -25,18 +25,10 @@ A real-time disaster alert dashboard using **Mapbox**, **AWS S3**, and **JavaScr
 
 ---
 
-### Preview
+## 🔆 Light Mode
 
-**Light Mode**
+![Light Mode](light-mode.png)
 
-![Light](light-mode.png)
+## 🌙 Dark Mode
 
-**Dark Mode**
-
-![Dark](dark-mode.png)
-
-# Test Screenshot
-
-Here is the light mode preview:
-
-![Preview](light-mode.png)
+![Dark Mode](dark-mode.png)
