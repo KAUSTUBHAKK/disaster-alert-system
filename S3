@@ -1,0 +1,9 @@
+{
+  "type": "Flood",
+  "severity": "High",
+  "location": {
+    "lat": 18.5204,
+    "lng": 73.8567
+  },
+  "timestamp": "2026-02-26T12:34:56"
+}
