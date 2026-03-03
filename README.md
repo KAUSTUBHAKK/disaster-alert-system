@@ -14,14 +14,18 @@ A real-time disaster alert dashboard using **Mapbox**, **AWS S3**, and **JavaScr
 
 ---
 
-## 🧱 Tech Stack
+## 🛠️ Tech Stack
 
-| Tech      | Purpose                   |
-|-----------|---------------------------|
-| Mapbox GL | Frontend map              |
-| HTML/CSS  | Web design                |
-| JavaScript| Fetch + DOM + Map logic   |
-| AWS S3    | Cloud alert data storage  |
+| Technology        | Purpose |
+|------------------|----------|
+| AWS Lambda       | Serverless backend to generate alerts |
+| Amazon S3        | Cloud storage for alert JSON data |
+| Amazon CloudWatch| Logging and monitoring Lambda execution |
+| Amazon EventBridge | Scheduled trigger for Lambda |
+| IAM              | Role-based access control |
+| Mapbox GL JS     | Frontend interactive map visualization |
+| HTML/CSS         | Web interface design |
+| JavaScript       | Fetch API + Map logic + DOM manipulation |
 
 ---
 
